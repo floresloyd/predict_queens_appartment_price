@@ -16,6 +16,7 @@ things i did
         - in sample vs out of sample rmse 
         - in sample vs out of sample r2 
     - model selection : linear regression, decision trees, random forrest, bagged trees, gradient boosted dt's 
+    - model deployment : created a python function that takes input and returns prediction
     
 - 
 libraries used
